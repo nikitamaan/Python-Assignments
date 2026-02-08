@@ -1,5 +1,3 @@
-# Unit Converter with Choices
-
 print("Distance Converter")
 print("1 Kilometers to Miles")
 print("2 Miles to Kilometers")
